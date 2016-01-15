@@ -1,3 +1,26 @@
+This was demo on ninja gold assignment with python using Pylot
+
+the video url is "https://youtu.be/Mxl7z5IPsyA"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Pylot MVC (beta)
 Pylot MVC is a lightweight MVC framework built in Python leveraging flask.
 

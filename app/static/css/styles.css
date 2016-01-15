@@ -1,0 +1,13 @@
+* {
+  font-family: monaco;
+}
+.lost{
+	color:red;
+}
+.earn{
+	color: green;
+}
+#activities{
+	height: 300px;
+	overflow: scroll;
+}
